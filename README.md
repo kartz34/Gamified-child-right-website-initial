@@ -1,2 +1,2 @@
 # Gamified-child-right-website
-A interesting gamified child rights website   based on html , css , mern stack for Smart India Hackathon.
+This is a website vision made for https://github.com/kartz34/Gamified-child-right-website
